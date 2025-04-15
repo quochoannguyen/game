@@ -1,0 +1,63 @@
+﻿  Game.cpp
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(32,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(32,16): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(32,16): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(39,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(39,16): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(39,16): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(47,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(47,16): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(47,16): warning C4566: character represented by universal-character-name '\u1EED' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(47,16): warning C4566: character represented by universal-character-name '\u1ED5' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(52,15): warning C4566: character represented by universal-character-name '\u1EED' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(52,15): warning C4566: character represented by universal-character-name '\u1ED5' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(52,15): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(52,15): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(52,15): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(52,15): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(56,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(56,16): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(63,15): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(63,15): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(63,15): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(63,15): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(71,15): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(71,15): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(292,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(297,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(518,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(598,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(678,15): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(678,15): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(678,15): warning C4566: character represented by universal-character-name '\u1EB9' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(678,15): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(687,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(687,16): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(687,16): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(687,16): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(692,16): warning C4566: character represented by universal-character-name '\u1EED' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(692,16): warning C4566: character represented by universal-character-name '\u1ED5' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(692,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(692,16): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(692,16): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(692,16): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(698,15): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(698,15): warning C4566: character represented by universal-character-name '\u1EB9' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(698,15): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(698,15): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\ECS.h(82,35): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\ECS.h(82,35): warning C4244:         with
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\ECS.h(82,35): warning C4244:         [
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\ECS.h(82,35): warning C4244:             _Ty=int
+C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\ECS.h(82,35): warning C4244:         ]
+  (compiling source file 'Game.cpp')
+      C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\ECS.h(82,35):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Nguye\source\repos\1sdlTest\1sdlTest\Game.cpp(466,5):
+          see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int,int,const int&,const int&,int>(int &&,int &&,const int &,const int &,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+  
+  1sdlTest.vcxproj -> C:\Users\Nguye\source\repos\1sdlTest\x64\Debug\1sdlTest.exe
